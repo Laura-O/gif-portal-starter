@@ -8,8 +8,10 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 
 const TEST_GIFS = [
-	'https://c.tenor.com/BY-coQKDdv8AAAAC/birdthugz-birdman.gif',
-	'https://c.tenor.com/6qlgxXbwovYAAAAC/deal-with-it-thug-life.gif'
+	'https://media.giphy.com/media/MUwt4MqcFnNyWdPNMh/giphy.gif',
+	'https://c.tenor.com/lTdhtSVG-WQAAAAC/fast-food-thug-birdz-thug-birdz.gif',
+	'https://c.tenor.com/6gV8PXLpz3YAAAAd/fast-food-thugbirdz-thugbirdz.gif',
+	'https://c.tenor.com/o6B2zrJ449gAAAAd/angry-birds-terence.gif'
 ]
 
 const App = () => {

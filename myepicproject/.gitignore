@@ -1,0 +1,14 @@
+
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+.cache
+=======
+>>>>>>> 21ac7f2 (Add rust code)
+=======
+>>>>>>> 21ac7f2 (Add rust code)
