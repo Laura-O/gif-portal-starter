@@ -1,5 +1,5 @@
 [programs.localnet]
-myepicproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+cawproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
 [registry]
 url = "https://anchor.projectserum.com"
@@ -9,4 +9,4 @@ cluster = "localnet"
 wallet = "/Users/lohrndorf/.config/solana/id.json"
 
 [scripts]
-test = "node tests/myepicproject.js" 
+test = "mocha -t 1000000 tests/"
