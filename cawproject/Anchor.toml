@@ -1,11 +1,11 @@
-[programs.localnet]
-cawproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+cawproject = "8k8G96QMdbyiA62N72irSqArSS7DfUW2gZN4StN9afGH"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/lohrndorf/.config/solana/id.json"
 
 [scripts]
